@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/udaymishra/static/css/main.9da0916f.css",
+    "main.js": "/udaymishra/static/js/main.842afbb9.js",
+    "static/js/787.0bbd3e9e.chunk.js": "/udaymishra/static/js/787.0bbd3e9e.chunk.js",
+    "static/media/me.png": "/udaymishra/static/media/me.33da702bdcb0fbb526b7.png",
+    "index.html": "/udaymishra/index.html",
+    "main.9da0916f.css.map": "/udaymishra/static/css/main.9da0916f.css.map",
+    "main.842afbb9.js.map": "/udaymishra/static/js/main.842afbb9.js.map",
+    "787.0bbd3e9e.chunk.js.map": "/udaymishra/static/js/787.0bbd3e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da0916f.css",
+    "static/js/main.842afbb9.js"
+  ]
+}
